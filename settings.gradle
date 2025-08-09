@@ -1,0 +1,3 @@
+rootProject.name = 'L05P03-Facade-pattern-with-access-control-Exercise'
+include 'InventoryMicroservice'
+include 'ShippingMicroservice'
